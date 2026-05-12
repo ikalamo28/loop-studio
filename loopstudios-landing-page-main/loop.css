@@ -147,5 +147,6 @@ main p{
     width: 205px;
     height: 400px;
     position:relative;
-
+    left: 930px;
+    bottom: 1230px;
 }
